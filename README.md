@@ -1,2 +1,3 @@
-#Lab03 -changed on my pc
-this line was added on github
+
+# Lab03 -changed on github and on my pc
+This line was added on GitHub
